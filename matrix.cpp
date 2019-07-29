@@ -1,3 +1,5 @@
+/* This program is which reads a n×m matrix A and a m×1 vector b, and prints their product Ab */
+
 #include<iostream>
 using namespace std;
 
