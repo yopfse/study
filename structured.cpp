@@ -1,3 +1,5 @@
+/* This program is solution of Structured Programming in AOJ */
+
 #include<iostream>
 using namespace std;
 
