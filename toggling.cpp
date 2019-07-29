@@ -1,3 +1,5 @@
+/* This program is which converts uppercase/lowercase letters to lowercase/uppercase for a given string */
+
 #include<iostream>
 #include<string>
 #include<cctype>
