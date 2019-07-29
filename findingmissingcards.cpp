@@ -1,3 +1,5 @@
+ /* This program is solution of problem that Finding Missing Cards in AOJ */
+
 #include<iostream>
 using namespace std;
 
