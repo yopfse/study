@@ -1,3 +1,5 @@
+/* This program is which reads the number of rows r, columns c and a table of r × c elements, and prints a new table, which includes the total sum for each row and column. */
+
 #include<iostream>
 using namespace std;
 
