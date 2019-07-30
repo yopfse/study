@@ -1,6 +1,4 @@
-/* 15818991
-   情報テクノロジー
-   大石夏奈子
+/*　This program is finding the minimum and maximum among the values of integer type array given by argument */ 
    */
 
 #include<stdio.h>
@@ -11,8 +9,8 @@ int max(int *d, int num);
 int main(){
     int data[] = {4, 5, 1, 2, 7, 10, 8};
 	
-    printf("最小値：%d\n", min(data, (int)sizeof(data)/sizeof(int)));
-    printf("最大値：%d\n", max(data, (int)sizeof(data)/sizeof(int)));
+    printf("min：%d\n", min(data, (int)sizeof(data)/sizeof(int)));
+    printf("max：%d\n", max(data, (int)sizeof(data)/sizeof(int)));
 	
     return 0;
 }
