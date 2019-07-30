@@ -1,5 +1,5 @@
 /*　This program is finding the minimum and maximum among the values of integer type array given by argument */ 
-   */
+   
 
 #include<stdio.h>
 
