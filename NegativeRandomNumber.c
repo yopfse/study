@@ -1,7 +1,4 @@
-/* 15818991
-   情報テクノロジー
-   大石夏奈子
-*/
+/* This program is which 10 integer random numbers in the range of -10 or more and 10 or less */
 
 #include<stdio.h>
 #include<stdlib.h>
