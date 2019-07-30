@@ -1,6 +1,4 @@
-/* 15818991
-   情報テクノロジー
-   大石夏奈子
+/* This program is Generating real random numbers from 0 to 4 as many as specified by the command line argument, and similarly writes them to the file specified by the command line argument
    */
 
 #include<stdio.h>
@@ -51,7 +49,7 @@ void writeData(char *fname, double *data, int n){
 	int i;
 
 	if((fp = fopen(fname, "w")) == NULL){
-		printf("ファイルが開けません\n");
+		printf("file cannot open\n");
 		exit (1);
 	}
 
